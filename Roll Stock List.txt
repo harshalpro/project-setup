@@ -1,0 +1,110 @@
+Uninstaller	32,956	61%
+.vs\prj_rollstockLIST\v14\.suo	9,025	91%
+Application Files\prj_rollstockLIST_1_0_0_0\prj_rollstockLIST.application	2,280	61%
+Application Files\prj_rollstockLIST_1_0_0_0\prj_rollstockLIST.exe.config.deploy	143	24%
+Application Files\prj_rollstockLIST_1_0_0_0\prj_rollstockLIST.exe.deploy	31,465	72%
+Application Files\prj_rollstockLIST_1_0_0_0\prj_rollstockLIST.exe.manifest	2,839	65%
+Application Files\prj_rollstockLIST_1_0_0_0\stockLIst.mdf.deploy	233,434	94%
+Application Files\prj_rollstockLIST_1_0_0_0\stockLIst_log.ldf.deploy	48,048	95%
+Install.iip	3,771	88%
+prj_rollstockLIST\App.config	0	-
+prj_rollstockLIST\bin\Debug\app.publish\Application Files\prj_rollstockLIST_1_0_0_0\prj_rollstockLIST.exe.config.deploy	0	-
+prj_rollstockLIST\bin\Debug\app.publish\Application Files\prj_rollstockLIST_1_0_0_0\prj_rollstockLIST.exe.deploy	0	-
+prj_rollstockLIST\bin\Debug\app.publish\Application Files\prj_rollstockLIST_1_0_0_0\prj_rollstockLIST.exe.manifest	0	-
+prj_rollstockLIST\bin\Debug\app.publish\Application Files\prj_rollstockLIST_1_0_0_0\stockLIst.mdf.deploy	0	-
+prj_rollstockLIST\bin\Debug\app.publish\Application Files\prj_rollstockLIST_1_0_0_0\stockLIst_log.ldf.deploy	0	-
+prj_rollstockLIST\bin\Debug\app.publish\prj_rollstockLIST.application	0	-
+prj_rollstockLIST\bin\Debug\app.publish\prj_rollstockLIST.exe	0	-
+prj_rollstockLIST\bin\Debug\app.publish\setup.exe	261,973	71%
+prj_rollstockLIST\bin\Debug\prj_rollstockLIST.application	749	62%
+prj_rollstockLIST\bin\Debug\prj_rollstockLIST.exe	30,320	73%
+prj_rollstockLIST\bin\Debug\prj_rollstockLIST.exe.config	0	-
+prj_rollstockLIST\bin\Debug\prj_rollstockLIST.exe.manifest	1,311	70%
+prj_rollstockLIST\bin\Debug\prj_rollstockLIST.pdb	22,353	86%
+prj_rollstockLIST\bin\Debug\prj_rollstockLIST.vshost.exe	13,328	42%
+prj_rollstockLIST\bin\Debug\prj_rollstockLIST.vshost.exe.config	0	-
+prj_rollstockLIST\bin\Debug\prj_rollstockLIST.xml	310	56%
+prj_rollstockLIST\bin\Debug\stockLIst.mdf	0	-
+prj_rollstockLIST\bin\Debug\stockLIst_log.ldf	0	-
+prj_rollstockLIST\common.vb	354	57%
+prj_rollstockLIST\frm_31.Designer.vb	2,214	85%
+prj_rollstockLIST\frm_31.resx	1,505	75%
+prj_rollstockLIST\frm_31.vb	1,037	68%
+prj_rollstockLIST\frm_35.Designer.vb	2,209	85%
+prj_rollstockLIST\frm_35.resx	0	-
+prj_rollstockLIST\frm_35.vb	1,059	69%
+prj_rollstockLIST\frm_36.Designer.vb	2,220	85%
+prj_rollstockLIST\frm_36.resx	0	-
+prj_rollstockLIST\frm_36.vb	1,038	68%
+prj_rollstockLIST\frm_37.Designer.vb	2,218	85%
+prj_rollstockLIST\frm_37.resx	0	-
+prj_rollstockLIST\frm_37.vb	1,038	68%
+prj_rollstockLIST\frm_40.Designer.vb	2,211	85%
+prj_rollstockLIST\frm_40.resx	0	-
+prj_rollstockLIST\frm_40.vb	1,037	68%
+prj_rollstockLIST\frm_42.Designer.vb	2,213	85%
+prj_rollstockLIST\frm_42.resx	0	-
+prj_rollstockLIST\frm_42.vb	1,039	68%
+prj_rollstockLIST\frm_43.Designer.vb	2,215	85%
+prj_rollstockLIST\frm_43.resx	0	-
+prj_rollstockLIST\frm_43.vb	1,037	68%
+prj_rollstockLIST\frm_44.Designer.vb	2,205	85%
+prj_rollstockLIST\frm_44.resx	0	-
+prj_rollstockLIST\frm_44.vb	1,038	68%
+prj_rollstockLIST\frm_47.Designer.vb	2,219	85%
+prj_rollstockLIST\frm_47.resx	0	-
+prj_rollstockLIST\frm_47.vb	1,039	68%
+prj_rollstockLIST\frm_51.Designer.vb	2,211	85%
+prj_rollstockLIST\frm_51.resx	0	-
+prj_rollstockLIST\frm_51.vb	1,042	68%
+prj_rollstockLIST\frm_Index.Designer.vb	2,218	85%
+prj_rollstockLIST\frm_Index.resx	0	-
+prj_rollstockLIST\frm_Index.vb	1,042	68%
+prj_rollstockLIST\frm_size.Designer.vb	1,677	85%
+prj_rollstockLIST\frm_size.resx	0	-
+prj_rollstockLIST\frm_size.vb	299	81%
+prj_rollstockLIST\My Project\Application.Designer.vb	668	57%
+prj_rollstockLIST\My Project\Application.myapp	264	44%
+prj_rollstockLIST\My Project\AssemblyInfo.vb	552	54%
+prj_rollstockLIST\My Project\Resources.Designer.vb	941	67%
+prj_rollstockLIST\My Project\Resources.resx	1,463	74%
+prj_rollstockLIST\My Project\Settings.Designer.vb	946	69%
+prj_rollstockLIST\My Project\Settings.settings	202	28%
+prj_rollstockLIST\obj\Debug\DesignTimeResolveAssemblyReferences.cache	568	62%
+prj_rollstockLIST\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache	1,228	84%
+prj_rollstockLIST\obj\Debug\prj_rollstockLIST.application	0	-
+prj_rollstockLIST\obj\Debug\prj_rollstockLIST.exe	0	-
+prj_rollstockLIST\obj\Debug\prj_rollstockLIST.exe.manifest	0	-
+prj_rollstockLIST\obj\Debug\prj_rollstockLIST.frm_31.resources	144	20%
+prj_rollstockLIST\obj\Debug\prj_rollstockLIST.frm_35.resources	0	-
+prj_rollstockLIST\obj\Debug\prj_rollstockLIST.frm_36.resources	0	-
+prj_rollstockLIST\obj\Debug\prj_rollstockLIST.frm_37.resources	0	-
+prj_rollstockLIST\obj\Debug\prj_rollstockLIST.frm_40.resources	0	-
+prj_rollstockLIST\obj\Debug\prj_rollstockLIST.frm_42.resources	0	-
+prj_rollstockLIST\obj\Debug\prj_rollstockLIST.frm_43.resources	0	-
+prj_rollstockLIST\obj\Debug\prj_rollstockLIST.frm_44.resources	0	-
+prj_rollstockLIST\obj\Debug\prj_rollstockLIST.frm_47.resources	0	-
+prj_rollstockLIST\obj\Debug\prj_rollstockLIST.frm_51.resources	0	-
+prj_rollstockLIST\obj\Debug\prj_rollstockLIST.frm_Index.resources	0	-
+prj_rollstockLIST\obj\Debug\prj_rollstockLIST.frm_size.resources	0	-
+prj_rollstockLIST\obj\Debug\prj_rollstockLIST.pdb	0	-
+prj_rollstockLIST\obj\Debug\prj_rollstockLIST.Resources.resources	0	-
+prj_rollstockLIST\obj\Debug\prj_rollstockLIST.vbproj.FileListAbsolute.txt	329	92%
+prj_rollstockLIST\obj\Debug\prj_rollstockLIST.vbproj.GenerateResource.Cache	814	52%
+prj_rollstockLIST\obj\Debug\prj_rollstockLIST.vbprojResolveAssemblyReference.cache	648	69%
+prj_rollstockLIST\obj\Debug\prj_rollstockLIST.xml	0	-
+prj_rollstockLIST\obj\Debug\TempPE\My Project.Resources.Designer.vb.dll	2,833	58%
+prj_rollstockLIST\prj_rollstockLIST.vbproj	2,373	81%
+prj_rollstockLIST\prj_rollstockLIST.vbproj.user	323	42%
+prj_rollstockLIST\prj_rollstockLIST_TemporaryKey.pfx	1,658	3%
+prj_rollstockLIST\stockLIst.mdf	233,509	94%
+prj_rollstockLIST\stockLIst_log.ldf	48,915	95%
+prj_rollstockLIST.application	0	-
+prj_rollstockLIST.sln	400	61%
+setup.exe	0	-
+
+Result :
+    Number of files: 62
+    Total uncompressed size: 10154350 bytes
+    Total compressed size: 1032717 bytes
+    Install program size: 1245596 bytes
